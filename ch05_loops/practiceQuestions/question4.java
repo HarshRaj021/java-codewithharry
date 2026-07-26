@@ -1,0 +1,13 @@
+package ch05_loops.practiceQuestions;
+
+public class question4 {
+    public static void main(String[] args) {
+        
+    
+    int n = 2;
+    for (int i =0; i<=10 ; i++) {
+        System.out.printf("%d X %d = %d\n",n , i, n*i);
+    }
+    
+}
+}
