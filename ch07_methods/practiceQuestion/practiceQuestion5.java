@@ -1,4 +1,4 @@
-package ch07_methods.practicequestion;
+
 
 public class practiceQuestion5 {
     static int fibonacci(int n) {

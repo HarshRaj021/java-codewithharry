@@ -1,4 +1,4 @@
-package ch07_methods.practicequestion;
+
 
 public class practiceQuestion1 {
     static void multiplication(int n){
