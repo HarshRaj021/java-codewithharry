@@ -1,4 +1,4 @@
-package PROJECTS.GuessTheNumber;
+package GuessTheNumber;
 
 
     import java.util.Random;

@@ -1,4 +1,5 @@
-package PROJECTS.projectRockPaperScissors;
+package projectRockPaperScissors;
+
 
 import java.util.Scanner;
 import java.util.Random;
