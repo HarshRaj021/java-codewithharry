@@ -31,6 +31,7 @@ ch05_loops/
 ch06_arrays/
 ch07_methods/
 ch08_oops/
+ch09_modifiers/
 projectRockPaperScissors/
 ```
 
