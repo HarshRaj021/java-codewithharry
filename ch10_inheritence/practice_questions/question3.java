@@ -2,7 +2,7 @@ package ch10_inheritence.practice_questions;
 
 
 
-class Rectangle {
+class Rectangle5 {
 
     private double length;
     private double breadth;
@@ -28,7 +28,7 @@ class Rectangle {
     }
 }
 
-class Cuboid extends Rectangle{
+class Cuboid extends Rectangle5{
 
     private double height;
 

@@ -27,7 +27,7 @@ public class question4 {
 
     public static void main(String[] args) {
 
-        Derived2 obj = new Derived2();
+        new Derived2();
 
     }
 }

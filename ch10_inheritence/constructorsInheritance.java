@@ -20,6 +20,6 @@ class Derived1 extends base1{
 }
 public class constructorsInheritance {
     public static void main(String[] args) {
-        Derived1 d = new Derived1(14,9);
+        new Derived1(14,9);
     }
 }
