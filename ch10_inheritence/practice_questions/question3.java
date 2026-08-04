@@ -28,7 +28,7 @@ class Rectangle5 {
     }
 }
 
-class Cuboid extends Rectangle5{
+class Cuboid1 extends Rectangle5{
 
     private double height;
 
@@ -49,7 +49,7 @@ public class question3 {
 
     public static void main(String[] args) {
 
-        Cuboid c = new Cuboid();
+        Cuboid1 c = new Cuboid1();
 
         c.setLength(4);
         c.setBreadth(5);
