@@ -39,7 +39,7 @@ This repository contains all the Java programs, practice questions, mini project
 
 ---
 
-# 🚀 Mini Projects
+# 🚀 Projects Built
 
 - 🎮 Guess The Number Game
 - 🧮 Custom Calculator
